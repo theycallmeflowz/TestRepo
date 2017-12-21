@@ -7,9 +7,8 @@ header{
     min-height:80px;
 }
 
-.brandName{
-    font-size: 40px;
-    font-family: 'Cinzel', serif;
+.brand-logo{
+    padding-left: 10px;
 }
 
 .fullAli{
