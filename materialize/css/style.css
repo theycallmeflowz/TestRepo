@@ -67,3 +67,10 @@ footer{
 .social:hover > li:hover {
   opacity: 1;
 }
+
+.bdaysection{
+    /* background-image: url("../../images/AliyahCS-66.jpg"); */
+    background-attachment: fixed;
+    height: 100vh;
+    width: calc(100% - 114px);
+}
