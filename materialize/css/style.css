@@ -1,0 +1,69 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400);
+
+header{
+    border: 2px solid blueviolet;
+    padding: 5px;
+    min-height:80px;
+}
+
+.brandName{
+    font-size: 40px;
+    font-family: 'Cinzel', serif;
+}
+
+.fullAli{
+    width: 100%;
+
+}
+
+footer{
+    min-height: 300px;
+    background-color: rgb(189, 194, 189);
+}
+
+.col{
+    border: 2px solid rgb(236, 233, 26);
+    /* height: 335px;
+    width:50%; */
+}
+
+#social-test {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 30px;
+}
+  .social {
+    padding-left: 0px;
+  }
+
+
+.socialfooter {
+    color: rgba(256, 256, 256, 0.6);
+    border-radius: 6px;
+    list-style-type: none;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    padding: 1%;
+    border: 1px solid rgba(256, 256, 256, 0.6);
+    cursor: pointer;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    transition: ease .3s;
+  }
+    
+.socialfooter:hover {
+    color: rgba(256, 256, 256, 1);
+    border: 1px solid rgba(256, 256, 256, 1);
+}
+  
+.social:hover > li {
+  opacity: 0.5;
+}
+
+.social:hover > li:hover {
+  opacity: 1;
+}
