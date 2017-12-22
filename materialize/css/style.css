@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400);
 
 header{
-    border: 2px solid blueviolet;
     padding: 5px;
     min-height:80px;
 }
@@ -13,18 +12,13 @@ header{
 
 .fullAli{
     width: 100%;
+    padding: 30px;
 
 }
 
 footer{
     min-height: 300px;
-    background-color: rgb(189, 194, 189);
-}
-
-.col{
-    border: 2px solid rgb(236, 233, 26);
-    /* height: 335px;
-    width:50%; */
+    background-color: #042a3c;
 }
 
 #social-test {
